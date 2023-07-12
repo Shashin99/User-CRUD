@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527711516137",
+    "project_id": "javacrud-3b273",
+    "storage_bucket": "javacrud-3b273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527711516137:android:c435edec908a09f9978778",
+        "android_client_info": {
+          "package_name": "com.example.javacrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527711516137-crng15e3blcrno436ke9saj47hlvicd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLqZ873RRFxyIwT5yWIBvooOmDD0hf544"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527711516137-crng15e3blcrno436ke9saj47hlvicd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
